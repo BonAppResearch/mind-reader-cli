@@ -25,7 +25,7 @@ The Guesser circuit encodes the guess sentence into a hash and computes the dot 
 
 1. Clone the repo
 ```
-git clone https://github.com/taceo-io/mind-reader-cli.git
+git clone https://github.com/BonAppResearch/mind-reader-cli.git
 ```
 
 2. Install dependencies
